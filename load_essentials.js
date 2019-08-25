@@ -5,4 +5,4 @@ document.getElementById("myNav").innerHTML =
     "<li class='header'><a href='/personal.html' class='header'>Personal</a></li>" +
     "<li class='header'><a href='/website.html' class='header'>Website</a></li>" +
     "</ul>";
-document.write("<i>Last updated at "+ document.lastModified + " EST.</i>");
+document.write("<i>Last updated at "+ document.lastModified + " PST.</i>");
